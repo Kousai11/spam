@@ -1,6 +1,6 @@
 ﻿const Discord = require('discord.js');
 const client = new Discord.Client();
-var prefix = "1say #credit @! - Royal l 👑 KِOٍUِِSِAُIَ 👑#8710";
+var prefix = "+";
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);  
